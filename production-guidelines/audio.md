@@ -2,6 +2,7 @@
 
 ## Table of content
 
+- [Links](#links)
 - [Tools](#tools)
     - [Software](#software)
     - [Hardware](#hardware)
@@ -9,6 +10,11 @@
     - [Recording](#recording)
     - [Editing](#editing)
 - [Edit steps](#edit-steps)
+
+# Links
+
+- [Audio Levels for Video Recording and Editing - Video 101 Episode 1](https://youtu.be/UAb-hV2uBj4)
+- [5 STEPS to Improve Your VOICEOVER in Audacity](https://www.youtube.com/watch?v=Rj7sbBng-T8)
 
 # Tools
 
