@@ -11,11 +11,13 @@ assignees: ''
 ## Research
 
 > [!NOTE]
+>
 > Gather all research for the video here.
 
 ## Script
 
 > [!NOTE]
+>
 > Here you write the script. Start with a bullet list, develop a hook with some heavy contrast, or just write some notes. Work your way from there and write the script however you want.
 
 [How to write a video script for YouTube (epidemicsound.com)](https://www.epidemicsound.com/blog/how-to-write-a-video-script-for-youtube/)
@@ -23,6 +25,7 @@ assignees: ''
 ## Shots
 
 > [!NOTE]
+>
 > Here you plan out the shots. You can also include them in the script instead, it's up to you.
 
 | **Description** | **Type** | **Script text or section** |
@@ -32,6 +35,7 @@ assignees: ''
 ## Audio
 
 > [!NOTE]
+>
 > Here you plan out the audio. You can also include them in the script instead, it's up to you.
 
 | **Description** | **Type** | **Script text or section** |

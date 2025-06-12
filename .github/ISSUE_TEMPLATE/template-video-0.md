@@ -26,6 +26,7 @@ assignees: ''
 ### Brief/Summary
 
 > [!INFO]
+>
 > Write out a general idea here. Preferably no longer than a 2-3 sentences long brief, but feel free to write a longer summary.
 
 ### Questions to think about
@@ -53,4 +54,5 @@ A:
 ### Inspiration
 
 > [!INFO]
+>
 > List other videos, plots, or anything else that sparked or inspired this idea.
