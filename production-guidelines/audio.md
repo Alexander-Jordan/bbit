@@ -4,27 +4,27 @@
 
 - [Links](#links)
 - [Tools](#tools)
-    - [Software](#software)
-    - [Hardware](#hardware)
+  - [Software](#software)
+  - [Hardware](#hardware)
 - [Audio levels](#audio-levels)
-    - [Recording](#recording)
-    - [Editing](#editing)
+  - [Recording](#recording)
+  - [Editing](#editing)
 - [Edit steps](#edit-steps)
 
-# Links
+## Links
 
 - [Audio Levels for Video Recording and Editing - Video 101 Episode 1](https://youtu.be/UAb-hV2uBj4)
 - [5 STEPS to Improve Your VOICEOVER in Audacity](https://www.youtube.com/watch?v=Rj7sbBng-T8)
 
-# Tools
+## Tools
 
-## Software
+### Software
 
 I like software that is accessible, powerfull, simple, and well supported (open-source is a big plus!).
 
 What I end up using the most is [Audacity](https://www.audacityteam.org/), which is available on most platforms, is powerfull yet simple, and it has a big community (and it's open-source!)
 
-## Hardware
+### Hardware
 
 For good audio, my minimum requirements for hardware are:
 
@@ -33,21 +33,21 @@ For good audio, my minimum requirements for hardware are:
 - Some pop-filter (a sock is a great option)
 - A fairly sound absorbing room
 
-# Audio levels
+## Audio levels
 
-## Recording
+### Recording
 
 When recording, audio levels should never go over 0 db.
 
 To prevent that, I aim for the audio levels to bounce around -12 db, so I have some headroom if the audio sometimes get loud occassionaly.
 
-## Editing
+### Editing
 
 The audio levels will change all the time during editing, but my end-goal is to have the peak levels just below 0 (I aim for maybe -1 db).
 
 During editing, I will try to balance the audio level of a clip so the volume is more or less the same throughout, without removing all of the dynamics.
 
-# Edit steps
+## Edit steps
 
 When editing audio such as a voice-over, I have tried different steps in different orders, but this is what I find is the best (most of the times):
 
