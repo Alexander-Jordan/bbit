@@ -1,12 +1,4 @@
----
-name: 'Pull Request'
-description: A template for a Pull Request.
-about: A template for a Pull Request.
-title: 'PR: [issue]'
-labels: ''
-assignees: ''
-
----
+# Pull Request
 
 > [!IMPORTANT]
 >
