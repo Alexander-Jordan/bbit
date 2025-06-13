@@ -10,7 +10,7 @@ assignees: ''
 
 ### Tags
 
-> [!INFO]
+> [!NOTE]
 >
 > List some tags like genre, mood, or general associations of the video.
 
