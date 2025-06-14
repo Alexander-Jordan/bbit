@@ -1,7 +1,7 @@
 ---
 name: 'Video: 5. Publish'
 description: For publishing a video.
-about: For publishish a video.
+about: For publishing a video.
 title: 'Publish: [video_name]'
 labels: 'publish'
 assignees: ''
