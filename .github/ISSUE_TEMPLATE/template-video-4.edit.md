@@ -1,9 +1,9 @@
 ---
-name: 'Video: Edit'
-description: Choose this template when it's time to edit a video.
-about: Choose this template when it's time to edit a video.
+name: 'Video: 4. Edit'
+description: For editing a video.
+about: For editing a video.
 title: 'Edit: [video_name]'
-labels: ''
+labels: 'edit'
 assignees: ''
 
 ---
