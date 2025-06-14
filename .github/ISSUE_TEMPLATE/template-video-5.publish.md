@@ -1,9 +1,9 @@
 ---
-name: 'Video: Publish'
-description: Choose this template when you're ready to publish a video.
-about: Select this template when you're ready to publish a video.
+name: 'Video: 5. Publish'
+description: For publishing a video.
+about: For publishish a video.
 title: 'Publish: [video_name]'
-labels: ''
+labels: 'publish'
 assignees: ''
 
 ---
