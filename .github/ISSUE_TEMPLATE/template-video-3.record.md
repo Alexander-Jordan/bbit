@@ -1,9 +1,9 @@
 ---
-name: 'Video: Record'
-description: Choose this template when you're ready to record content for a video.
-about: Choose this template when you're ready to record content for a video.
+name: 'Video: 3. Record'
+description: For recording video content.
+about: For recording video content.
 title: 'Record: [video_name]'
-labels: ''
+labels: 'record'
 assignees: ''
 
 ---

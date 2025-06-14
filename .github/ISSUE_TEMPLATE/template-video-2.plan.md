@@ -1,9 +1,9 @@
 ---
-name: 'Video: Plan'
-description: Choose this template to start planning the content of a video.
-about: Choose this template to start planning the content of a video.
+name: 'Video: 2. Plan'
+description: For planning the content of a video.
+about: For planning the content of a video.
 title: 'Plan: [video_name]'
-labels: ''
+labels: 'plan'
 assignees: ''
 
 ---
