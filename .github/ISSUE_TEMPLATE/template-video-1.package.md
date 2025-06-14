@@ -1,9 +1,9 @@
 ---
-name: 'Video: Package'
-description: Choose this template to start creating a video package (title & thumbnail).
-about: Choose this template to start creating a video package (title & thumbnail).
+name: 'Video: 1. Package'
+description: For creating a video package (title & thumbnail).
+about: For creating a video package (title & thumbnail).
 title: 'Package: [video_name]'
-labels: ''
+labels: 'package'
 assignees: ''
 
 ---
