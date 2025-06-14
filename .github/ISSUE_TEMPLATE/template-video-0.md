@@ -1,9 +1,9 @@
 ---
 name: Video
-description: Choose this template when you have a new video idea.
-about: Choose this template when you have a new video idea.
+description: For a new video idea.
+about: For a new video idea.
 title: 'Video: [name]'
-labels: ''
+labels: 'video'
 assignees: ''
 
 ---
